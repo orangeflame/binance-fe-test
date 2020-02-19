@@ -1,4 +1,4 @@
-The small test that we would like you to do is to make your own market widget history UI on React using the REST API and WebSockets as follow picture shows.
+The small test that we would like you to do is to make your own market widget UI on React using the REST API and WebSockets as follow picture shows.
 
 <img src="./market.png">
 
