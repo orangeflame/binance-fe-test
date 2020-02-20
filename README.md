@@ -10,4 +10,4 @@ There should also be a button that, once clicked, force closes the WebSocket, so
 
 You need to group the coins into serveral markets
 
-You should spend around half a day on this exercise. You can use JS or TypeScript and add at least one unit test for a component.
+You should spend around half a day on this exercise. You can use JS or TypeScript and add at least one e2e test for this component.
