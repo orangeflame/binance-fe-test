@@ -5,15 +5,16 @@ The small test that we would like you to do is to make your own market widget UI
 Rest API: `https://www.binance.com/exchange-api/v1/public/asset-service/product/get-products`
 
 Here is some explanation of  get-products API:
-| s | symbol  |
-| b | base asset  |
-| q | quote asset |
-| o | open price  |
-| h | high price  |
-| l | low price |
-| c | latest price  |
-| pm  | parent market  |
-| pn  | category of the parent market |
+| s  | symbol                        |
+|----|-------------------------------|
+| b  | base asset                    |
+| q  | quote asset                   |
+| o  | open price                    |
+| h  | high price                    |
+| l  | low price                     |
+| c  | atest price                   |
+| pm | parent market                 |
+| pn | category of the parent market |
 
 For example, ALTS has three categories,  XRP, ETH, and TRX. By choosing ALTS, it shows all the symbols in which the parent market is ALTS. By choosing, ETH, it shows all the symbol which pm is ALTS and category is ETH.
 
