@@ -12,11 +12,11 @@ Here is some explanation of  get-products API:
 | o  | open price                    |
 | h  | high price                    |
 | l  | low price                     |
-| c  | atest price                   |
+| c  | latest price                  |
 | pm | parent market                 |
 | pn | category of the parent market |
 
-For example, ALTS has three categories,  XRP, ETH, and TRX. By choosing ALTS, it shows all the symbols in which the parent market is ALTS. By choosing, ETH, it shows all the symbol which pm is ALTS and category is ETH.
+For example, ALTS has three categories,  XRP, ETH, and TRX. By choosing ALTS, it shows all the symbols in which the parent market is ALTS. By choosing ETH, it shows all the symbol which pm is ALTS and category is ETH.
 
 WebSocket API: `wss://stream.binance.com/stream?streams=!miniTicker@arr`
 
